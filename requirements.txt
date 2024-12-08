@@ -14,5 +14,4 @@ scikit-learn
 pybase64
 matplotlib
 werkzeug
-json
 csv
