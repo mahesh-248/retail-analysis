@@ -9,11 +9,10 @@ fastapi
 uvicorn[standard]
 pydantic
 azure-identity
-
 mlxtend
 scikit-learn
 pybase64
 matplotlib
-werkzeug.utils
+werkzeug
 json
 csv
