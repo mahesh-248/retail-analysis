@@ -9,3 +9,11 @@ fastapi
 uvicorn[standard]
 pydantic
 azure-identity
+os
+mlxtend
+scikit-learn
+pybase64
+matplotlib
+werkzeug.utils
+json
+csv
